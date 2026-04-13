@@ -13,7 +13,7 @@
 
 ## 👉 CONNECT WITH ME
 
-Have any questions for me? Or just casual chat, feel free to dm me 😊
+<p align="center">Have any questions for me? Or just casual chat, feel free to dm me 😊</p>
 
 <p align="center">
   
