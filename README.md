@@ -11,23 +11,29 @@
 
 ---
 
-## 📊 GitHub Stats
+## 👉 CONNECT WITH ME
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+Have any questions for me? Or just casual chat, feel free to dm me 😊
 
----
+<p align="center">
+  
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🔥 GitHub Streak
+<a href="https://wa.me/YOUR_NUMBER">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## 📫 Connect with me
-
-[LinkedIn](your-link)  
-[Instagram](your-link)
-
+</p>
 <!--
 **Anmol-2109/Anmol-2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
