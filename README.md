@@ -6,11 +6,11 @@
 <!-- Intro -->
 <div align="center">
   <h2>Hi 👋, I'm Anmol Kumar</h2>
-  <p><em>B.Tech CSE Student at <strong>IIIT Guwahati</strong> · CPI: 8.90</em></p>
+  <p><em>B.Tech CSE Student at <strong>IIIT Guwahati</strong></em></p>
   <p>
-    Passionate software developer who loves building scalable, production-grade systems.<br/>
-    Working across the full stack — Django backends, React frontends, and clean REST APIs.<br/>
-    Deeply interested in <strong>Artificial Intelligence, Machine Learning, and AI Agent frameworks</strong>.
+    Passionate Software Developer focused on building scalable, production-grade systems.<br/>
+Specializing in backend development using Spring Boot, REST APIs, and clean system architecture.<br/>
+Deeply interested in <strong>Artificial Intelligence, Machine Learning, and AI Agent frameworks</strong>.
   </p>
 </div>
 
@@ -19,14 +19,12 @@
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Django+%2B+React+Enthusiast;Competitive+Programmer+(350%2B+LeetCode);AI+%26+ML+Explorer;Technical+Head+%40+I%26E+Cell+IIITG" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=520&lines=Software+Developer;Spring+Boot+Backend+Engineer;Building+Scalable+Systems;Competitive+Programmer;AI+%26+ML+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
----
-
 <!-- Social Badges -->
-<div align="center">
+<!-- <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
@@ -34,7 +32,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anmol-2109)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-</div>
+</div> -->
 
 ---
 
@@ -82,10 +80,9 @@
 <div align="center">
   <p><em>Have a question, want to collaborate, or just want to say hi? Feel free to reach out! 😄</em></p>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_WHATSAPP_NUMBER)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-kumar-1ba37b324/)
+[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolkumarsinghofficial2005@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7631648529)
 
 </div>
 
