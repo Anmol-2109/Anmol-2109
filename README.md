@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Anmol%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Anmol%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=20"/>
 </div>
 
 <!-- Intro -->
@@ -38,33 +38,20 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```python
-anmol = {
-    "name"       : "Anmol Kumar",
-    "college"    : "IIIT Guwahati — B.Tech CSE (2024–2028)",
-    "cpi"        : 8.90,
-    "role"       : "Technical Head @ I&E Cell IIITG",
-    "stack"      : ["Django", "React.js", "PostgreSQL", "Redis", "Celery"],
-    "languages"  : ["C++", "Python", "JavaScript", "Java", "SQL"],
-    "interests"  : ["AI Agents", "Machine Learning", "System Design", "DSA"],
-    "cp"         : "350+ LeetCode | 1200+ CodeChef Rating",
-    "currently"  : "Building production-grade platforms & exploring AI tooling",
-}
-```
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anmol-2109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Anmol-2109&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-2109&theme=tokyonight"/>
+
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-2109&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anmol-2109&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anmol-2109&theme=tokyonight"/>
+
 </div>
 
 ---
@@ -80,7 +67,7 @@ anmol = {
 [![Skills](https://skillicons.dev/icons?i=react,html,css,vite&theme=dark)](https://skillicons.dev)
 
 ### Backend & Databases
-[![Skills](https://skillicons.dev/icons?i=django,postgres,mysql,redis&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=spring,django,postgres,mysql,redis&theme=dark)](https://skillicons.dev)
 
 ### Tools
 [![Skills](https://skillicons.dev/icons?i=git,github,firebase,linux&theme=dark)](https://skillicons.dev)
@@ -114,44 +101,10 @@ anmol = {
 
 <!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversal=true"/>
   <p>Made with ❤️ &nbsp;|&nbsp; Copyright © 2025 | Anmol-2109</p>
 </div>
 
-## 📊 GitHub Summary
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-2109&theme=tokyonight"/>
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anmol-2109&theme=tokyonight&hide_border=true"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-2109&theme=tokyo-night&hide_border=true"/>
-</div>
-
-## 📊 Contribution Stats
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anmol-2109&theme=tokyonight"/>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anmol-2109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Anmol-2109&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-2109&theme=tokyonight"/>
-</div>
 <!--
 **Anmol-2109/Anmol-2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
