@@ -152,6 +152,41 @@ anmol = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
   <p>Made with ❤️ &nbsp;|&nbsp; Copyright © 2025 | Anmol-2109</p>
 </div>
+
+## 📊 GitHub Summary
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-2109&theme=tokyonight"/>
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anmol-2109&theme=tokyonight&hide_border=true"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-2109&theme=tokyo-night&hide_border=true"/>
+</div>
+
+## 📊 Contribution Stats
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anmol-2109&theme=tokyonight"/>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Anmol-2109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Anmol-2109&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-2109&theme=tokyonight"/>
+</div>
 <!--
 **Anmol-2109/Anmol-2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
