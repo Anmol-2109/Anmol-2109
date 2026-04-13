@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Anmol%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Anmol%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20System%20Design%20Enthusiast&descAlignY=58&descSize=20"/>
 </div>
 
 <!-- Intro -->
@@ -14,12 +14,11 @@ Deeply interested in <strong>Artificial Intelligence, Machine Learning, and AI A
   </p>
 </div>
 
----
 
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=520&lines=Software+Developer;Spring+Boot+Backend+Engineer;Building+Scalable+Systems;Competitive+Programmer;AI+%26+ML+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=520&lines=Software+Developer;Spring+Boot+Backend+Engineer;Building+Scalable+Systems;System+Design+Enthusiast;AI+%26+ML+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,7 +34,6 @@ Deeply interested in <strong>Artificial Intelligence, Machine Learning, and AI A
 </div> -->
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -81,12 +79,10 @@ Deeply interested in <strong>Artificial Intelligence, Machine Learning, and AI A
   <p><em>Have a question, want to collaborate, or just want to say hi? Feel free to reach out! 😄</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-kumar-1ba37b324/)
-[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolkumarsinghofficial2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=anmolkumarsinghofficial2005@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7631648529)
 
 </div>
-
----
 
 ## 👀 Profile Views
 
@@ -94,12 +90,11 @@ Deeply interested in <strong>Artificial Intelligence, Machine Learning, and AI A
   <img src="https://komarev.com/ghpvc/?username=Anmol-2109&label=Profile+Views&color=6A0DAD&style=for-the-badge" />
 </div>
 
----
 
 <!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversal=true"/>
-  <p>Made with ❤️ &nbsp;|&nbsp; Copyright © 2025 | Anmol-2109</p>
+  <p>&nbsp; Copyright © 2025 | Anmol-2109</p>
 </div>
 
 <!--
