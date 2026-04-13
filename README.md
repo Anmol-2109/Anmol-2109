@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 Tech Stack
-
-![C](https://skillicons.dev/icons?i=c,cpp,java,python,js,react,git,github,springboot,springsecurity,django)
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,django,spring,springboot,mysql,postgres,redis,git,github,vite&perline=8)
 
 ---
 
