@@ -56,15 +56,15 @@ anmol = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anmol-2109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-2109&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anmol-2109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Anmol-2109&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anmol-2109&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol-2109&theme=tokyonight"/>
 </div>
 
 ---
@@ -89,41 +89,6 @@ anmol = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| 🎯 **Event Management Platform** | Production-grade full-stack platform for I&E Cell, IIITG — JWT auth, OTP recovery, real-time push notifications, async background tasks, role-based access | Django · DRF · React · PostgreSQL · Redis · Celery · FCM | [![GitHub](https://img.shields.io/badge/-Source-181717?style=flat&logo=github)](https://github.com/Anmol-2109/REPO_NAME) [![Live](https://img.shields.io/badge/-Live-28a745?style=flat&logo=vercel&logoColor=white)](https://YOUR_LIVE_LINK) |
-| 📚 **C++ Library Management System** | Console-based system applying OOP, SOLID principles & design patterns (Singleton, Strategy, Factory) with ACID-aligned data handling | C++17 · OOP · Design Patterns | [![GitHub](https://img.shields.io/badge/-Source-181717?style=flat&logo=github)](https://github.com/Anmol-2109/REPO_NAME) |
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🏅 Platform | 📈 Achievement |
-|---|---|
-| LeetCode | 350+ Problems Solved |
-| CodeChef | 1200+ Rating |
-| IIIT Guwahati | CPI: **8.90 / 10** (Till Semester 3) |
-| I&E Cell IIITG | **Technical Head** — Jan 2026 to Present |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-2109&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
 
 ## 🤝 Connect With Me
 
